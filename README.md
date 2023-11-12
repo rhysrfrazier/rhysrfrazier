@@ -1,6 +1,14 @@
-### Hi there 👋
+### Welcome!
 
+My name's Rhys (pronounced like Reese's Cups) and my pronouns are he/him or they/them, interchangeably. I'm a driven junior software engineer with two major goals:
+- Continue improving my technical skills indefinitely (learning new and improved techniques; more languages and frameworks as appropriate; broader and deeper understanding!)
+- Contribute to accessible software that helps improve the lives of users
+
+I'm currently working with the MERN stack and learning Python.
+
+Feel free to check out any of my pinned repos and reach out on LinkedIn if you'd like to get in touch!
 <!--
+
 **rhysrfrazier/rhysrfrazier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
