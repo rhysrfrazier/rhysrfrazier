@@ -6,7 +6,9 @@ My name's Rhys (pronounced like Reese's Cups) and my pronouns are he/him or they
 
 I have the most experience in the MERN stack, but also dabble in a bit of Python3, C#, and PostgreSQL.
 
-Feel free to check out any of my pinned repos and reach out on LinkedIn if you'd like to get in touch!
+I'm currently working on a full portfolio website, but please feel free to check out the pinned repos in the meantime! I can't wait to have more time to revisit and improve these in the coming weeks, but until then.
+
+Feel free to reach out here or on [LinkedIn](https://www.linkedin.com/in/rhysrfrazier/) if you have any questions, feedback, ir just want to connect.
 <!--
 
 **rhysrfrazier/rhysrfrazier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
