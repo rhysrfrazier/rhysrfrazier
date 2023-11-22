@@ -4,7 +4,7 @@ My name's Rhys (pronounced like Reese's Cups) and my pronouns are he/him or they
 - Continue improving my technical skills indefinitely (learning new and improved techniques; more languages and frameworks as appropriate; broader and deeper understanding!)
 - Contribute to accessible software that helps improve the lives of users
 
-I'm currently working with the MERN stack and learning Python.
+I have the most experience in the MERN stack, but also dabble in a bit of Python3, C#, and PostgreSQL.
 
 Feel free to check out any of my pinned repos and reach out on LinkedIn if you'd like to get in touch!
 <!--
