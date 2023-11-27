@@ -8,7 +8,7 @@ I have the most experience in the MERN stack, but also dabble in a bit of Python
 
 I'm currently working on a full portfolio website, but please feel free to check out the pinned repos in the meantime! I can't wait to have more time to revisit and improve these in the coming weeks, but until then.
 
-Feel free to reach out here or on [LinkedIn](https://www.linkedin.com/in/rhysrfrazier/) if you have any questions, feedback, ir just want to connect.
+Feel free to reach out here or on [LinkedIn](https://www.linkedin.com/in/rhysrfrazier/) if you have any questions, feedback, or just want to connect.
 <!--
 
 **rhysrfrazier/rhysrfrazier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
