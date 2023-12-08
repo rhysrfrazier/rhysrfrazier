@@ -4,11 +4,21 @@ My name's Rhys (pronounced like Reese's Cups) and my pronouns are he/him or they
 - Continue improving my technical skills indefinitely (learning new and improved techniques; more languages and frameworks as appropriate; broader and deeper understanding!)
 - Contribute to accessible software that helps improve the lives of users
 
-I have the most experience in the MERN stack, but also dabble in a bit of Python3, C#, and PostgreSQL.
+I have the most experience in the MERN stack, but also dabble in a bit of Python3, Django, C#, and PostgreSQL. Up next, I want to learn Typescript and try out Sequelize!
 
-I'm currently working on a full portfolio website, but please feel free to check out the pinned repos in the meantime! I can't wait to have more time to revisit and improve these in the coming weeks, but until then.
+Feel free to check out [my portfolio](https://rhys-frazier.netlify.app/), or to reach out here or on [LinkedIn](https://www.linkedin.com/in/rhysrfrazier/) if you have any questions, feedback, or just want to connect.
 
-Feel free to reach out here or on [LinkedIn](https://www.linkedin.com/in/rhysrfrazier/) if you have any questions, feedback, or just want to connect.
+***
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+
+
+
+
+
+
+
+
+
 <!--
 
 **rhysrfrazier/rhysrfrazier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
