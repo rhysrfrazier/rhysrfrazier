@@ -4,7 +4,7 @@ My name's Rhys (pronounced like Reese's Cups) and my pronouns are he/him or they
 - Continue improving my technical skills indefinitely (learning new and improved techniques; more languages and frameworks as appropriate; broader and deeper understanding!)
 - Contribute to accessible software that helps improve the lives of users
 
-I have the most experience in the MERN stack, but also dabble in a bit of Python3, Django, C#, PostgreSQL, and Sequelize. Up next, I want to learn Typescript and AWS backend deployment!
+Some of my top skills include technical writing, React, JavaScript, NodeJs, Express, and PostgreSQL, though I also have exposure to Python, HTML and CSS, Bootstrap/Reactstrap, Django, MongoDB, and more. I just created my first backend with Sequelize ORM, and my next project is learning Next.JS for the front end of that project!
 
 Feel free to check out [my portfolio](https://rhys-frazier.netlify.app/), or to reach out here or on [LinkedIn](https://www.linkedin.com/in/rhysrfrazier/) if you have any questions, feedback, or just want to connect.
 
