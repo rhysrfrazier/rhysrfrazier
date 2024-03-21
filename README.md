@@ -4,7 +4,7 @@ My name's Rhys (pronounced like Reese's Cups) and my pronouns are he/him or they
 - Continue improving my technical skills indefinitely (learning new and improved techniques; more languages and frameworks as appropriate; broader and deeper understanding!)
 - Contribute to accessible software that helps improve the lives of users
 
-Some of my top skills include technical writing, React, JavaScript, NodeJs, Express, and PostgreSQL, though I also have exposure to Python, HTML and CSS, Bootstrap/Reactstrap, Django, MongoDB, and more. I just created my first backend with Sequelize ORM, and my next project is learning Next.JS for the front end of that project!
+Some of my top skills include technical writing, React, JavaScript, NodeJs, Express, and PostgreSQL, though I also have exposure to Python, HTML and CSS, Bootstrap/Reactstrap, Django, MongoDB, and more. Earlier this year I created my first backend with Sequelize ORM and learned Next.js, and now I'm bringing them both together for a client's small business website. Up next will be learning to integrate PayPal, and after that exploring some data analytics to help him make informed decisions about what products to offer more of!
 
 Feel free to check out [my portfolio](https://rhys-frazier.netlify.app/), or to reach out here or on [LinkedIn](https://www.linkedin.com/in/rhysrfrazier/) if you have any questions, feedback, or just want to connect.
 
